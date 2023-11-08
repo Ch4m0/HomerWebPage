@@ -168,11 +168,11 @@
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 80px;
     display: flex;
     justify-content: center;
     color: black;
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 </style>
